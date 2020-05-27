@@ -1,2 +1,1 @@
 # andyjkim.github.io
-Website
