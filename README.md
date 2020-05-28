@@ -1,3 +1,3 @@
 # andyjkim.github.io
 
-WIP
+Repo for website.
