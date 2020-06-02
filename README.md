@@ -1,3 +1,3 @@
-# andyjkim.github.io
+# Webpage
 
-Repo for my website.
+[andyjkim.com](https://andyjkim.com)
