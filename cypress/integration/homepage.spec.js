@@ -2,10 +2,10 @@
 
 context('Homepage', () => {
   beforeEach(() => {
-    cy.visit('http://andyjkim.com')
+    cy.visit('http://pymetrics.com')
   })
 
-  it('job title', () => {
-    cy.get('#header > div > div > p').contains('Test Automation Engineer')
+  it('Login button', () => {
+    cy.get('body > div.navbar.w-nav > div.container.large.horizontal.space-between > nav > div > div.nav-menu-buttons-wrapper > a.nav-link.small.w-nav-link').contains('Logout')
   })
 })
