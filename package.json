@@ -1,0 +1,28 @@
+{
+  "name": "andyjkim.github.io",
+  "version": "0.0.1",
+  "description": "andy kim's website",
+  "main": "index.js",
+  "scripts": {
+    "http-server": "./node_modules/http-server/bin/http-server",
+    "cypress": "./node_modules/.bin/cypress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyjkim/andyjkim.github.io.git"
+  },
+  "author": "andyjkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyjkim/andyjkim.github.io/issues"
+  },
+  "homepage": "https://github.com/andyjkim/andyjkim.github.io#readme",
+  "devDependencies": {
+    "cypress": "^4.7.0",
+    "http-server": "^0.12.3"
+  },
+  "dependencies": {
+    "npm": "^6.14.5",
+    "run": "^1.4.0"
+  }
+}
