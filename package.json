@@ -4,8 +4,7 @@
   "description": "andy kim's website",
   "main": "index.js",
   "scripts": {
-    "http-server": "./node_modules/http-server/bin/http-server",
-    "cypress": "./node_modules/.bin/cypress"
+    "http-server": "./node_modules/http-server/bin/http-server"
   },
   "repository": {
     "type": "git",
@@ -18,7 +17,7 @@
   },
   "homepage": "https://github.com/andyjkim/andyjkim.github.io#readme",
   "devDependencies": {
-    "cypress": "^4.7.0",
+    "@playwright/test": "^1.32.1",
     "http-server": "^14.1.1"
   },
   "dependencies": {
